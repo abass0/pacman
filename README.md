@@ -56,5 +56,3 @@ docker push <registry>/<user>/pacman-nodejs-app
 ```
 s2i build . centos/nodejs-6-centos7 pacman
 ```
-
-teste
