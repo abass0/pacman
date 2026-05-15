@@ -1,5 +1,3 @@
-# pacman
-Pac-Man!!
 
 ## Install dependencies
 
